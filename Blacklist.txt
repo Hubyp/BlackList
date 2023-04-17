@@ -1,2 +1,10 @@
-[ Name: SeanGaming_YT#4797, ID: 853640535452811324, Duration: 4d, Reason: Edit Giveaway (Not funny) ]
-[ Name: marker#3209, ID:763785255579942982, Duration: Permanent, Reason: There is no reason! ]
+[----------------------------------------------Temporary----------------------------------------------]
+
+[ Name: SeanGaming_YT#4797, ID: 853640535452811324, Duration: 4d, Reason: Edit Giveaway (Not funny) ],
+
+
+[----------------------------------------------Permanent----------------------------------------------]
+
+[ Name: marker#3209, ID: 763785255579942982, Duration: Permanent, Reason: There is no reason! ],
+[ Name: Chillz#1111, ID: 730229661963124818, Duration: Permanent, Reason: There is no reason! ],
+[ Name: Samy#5315, ID: 982521325308481628, Duration: Permanent, Reason: There is no reason! ]
