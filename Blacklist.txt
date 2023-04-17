@@ -1,7 +1,7 @@
 [----------------------------------------------Temporary----------------------------------------------]
 
 - SeanGaming_YT
-[ Name: SeanGaming_YT#4797, DiscordID: 853640535452811324, RobloxID: 1321501695, RobloxName: name, Warn: 1/3, Duration: 4d, Reason: Edit Giveaway (Not funny) ],
+[ Name: SeanGaming_YT#4797, DiscordID: 853640535452811324, RobloxID: 1321501695, RobloxName: daniel091727, Warn: 1/3, Duration: 4d, Reason: Edit Giveaway (Not funny) ],
 
 - Name
 [ Name: Name, DiscordID: Id, RobloxID: Id, RobloxName: name, Warn: 1/3, Duration: Duration, Reason: Reason ],
@@ -15,7 +15,7 @@
 [----------------------------------------------Permanent----------------------------------------------]
 
 --- Marker
-[ Name: marker#3209, DiscordID: 763785255579942982, RobloxID: 1125383944, RobloxName: name, Warn: 3/3, Duration: Permanent, Reason: There is no reason! ],
+[ Name: marker#3209, DiscordID: 763785255579942982, RobloxID: 1125383944, RobloxName: ajirobe, Warn: 3/3, Duration: Permanent, Reason: There is no reason! ],
 
 --- Chillz
 [ Name: Chillz#1111, DiscordID: 730229661963124818, RoblxoID: None, RobloxName: name, Warn: 3/3, Duration: Permanent, Reason: There is no reason! ],
