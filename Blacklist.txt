@@ -3,8 +3,8 @@
 - SeanGaming_YT
 [ Name: SeanGaming_YT#4797, DiscordID: 853640535452811324, RobloxID: 1321501695, RobloxName: daniel091727, Warn: 1/3, Duration: 4d, Reason: Edit Giveaway (Not funny) ],
 
-- Name
-[ Name: Name, DiscordID: Id, RobloxID: Id, RobloxName: name, Warn: 1/3, Duration: Duration, Reason: Reason ],
+- SKELETON GOD
+[ Name: SKELETON GOD#5807, DiscordID: 971293042411700224, RobloxID: 3564227867, RobloxName: USHOULDKNRW, Warn: 2/3, Duration: 120d, Reason: Ad in dm ],
 
 - Name
 [ Name: Name, DiscordID: Id, RobloxID: Id, RobloxName: name, Warn: 1/3, Duration: Duration, Reason: Reason ],
