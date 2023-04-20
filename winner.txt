@@ -1,0 +1,22 @@
+[ -------------------------------------Winner------------------------------------- ]
+
+- Thrumble
+[ Name: Thrumble#8088, DiscordID: 975914242916114522, RobloxID: 3181041002, RobloxName: LawsonXLHTooStrong, Win: 1/3 ],
+
+- Name
+[ Name: Name, DiscordID: ID, RobloxID: ID, RobloxName: name, Win: 1/3 ],
+
+- Name
+[ Name: Name, DiscordID: ID, RobloxID: ID, RobloxName: name, Win: 1/3 ],
+
+- Name
+[ Name: Name, DiscordID: ID, RobloxID: ID, RobloxName: name, Win: 1/3 ],
+
+- Name
+[ Name: Name, DiscordID: ID, RobloxID: ID, RobloxName: name, Win: 1/3 ],
+
+- Name
+[ Name: Name, DiscordID: ID, RobloxID: ID, RobloxName: name, Win: 1/3 ],
+
+- Name
+[ Name: Name, DiscordID: ID, RobloxID: ID, RobloxName: name, Win: 1/3 ],
